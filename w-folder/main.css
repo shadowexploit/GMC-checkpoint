@@ -63,7 +63,6 @@ width: 100%;
 
   
 }
-/* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -73,7 +72,6 @@ width: 100%;
   z-index: 1;
   width: 268px;
 }
-/* Show the dropdown menu on hover */
 .departments:hover .dropdown-content {
   display: block;
 }
@@ -107,8 +105,6 @@ div.navbar {
 .menu p {
   margin: auto;
 }
-/*-- header end ---*/
-/*--section inner--*/
 .inner {
   display: flex;
   flex-direction: column;
@@ -129,7 +125,6 @@ h1.inner {
 P.paragraphs {
   padding: 0% 10%;
 }
-/*-- section country ---*/
 section#select {
   display: flex;
   justify-content: space-between;
